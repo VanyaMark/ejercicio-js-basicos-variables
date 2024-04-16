@@ -14,6 +14,7 @@
  /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
   */
+ console.log(variable4)
 
   variable2 = variable1;
   variable4 = variable2 * 2;
@@ -21,3 +22,5 @@
 /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
   */
+
+console.log(variable4)

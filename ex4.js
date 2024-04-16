@@ -17,6 +17,12 @@
  */
 
 let numeroGatos = 10;
+let proximaPareja = "Ricard";
+let pais = "Taiwan";
+let trabajo = "programadora"
+
+let pronostico = `Tú estarás en ${pais} trabajando de ${trabajo} y tu pareja será ${proximaPareja} y tendréis ${numeroGatos}.`
+console.log(pronostico);
 
 let futuro = "tendréis " + numeroGatos + " gatos";
 console.log(futuro);

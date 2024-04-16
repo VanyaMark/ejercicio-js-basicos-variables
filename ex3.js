@@ -15,10 +15,12 @@ let presentacion = "";
  * 
  */
 
+presentacion=`Me llamo ${nombre} ${apellido}?`
+
 console.log("Pregunta 1:", presentacion);
 
 /**
  * Pregunta 2: Cambia el valor de las variables adecuadamente para que, en vez de "Me llamo Mad Max", escribe "Me llamo {tu nombre} {tu apellido}"
  */
-
+presentacion = `Me llamo Vanya Mark`
 console.log("Pregunta 2:", presentacion);
